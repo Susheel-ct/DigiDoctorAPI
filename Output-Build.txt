@@ -1,0 +1,11 @@
+﻿1>------ Rebuild All started: Project: CortevaSO.Utilites, Configuration: Debug Any CPU ------
+1>CortevaSO.Utilites -> D:\Cortvea SO\API\CortevaSO\CortevaSO.Utilites\bin\Debug\netstandard2.0\CortevaSO.Utilites.dll
+2>------ Rebuild All started: Project: CortevaSO.DataAccessLayer, Configuration: Debug Any CPU ------
+2>CortevaSO.DataAccessLayer -> D:\Cortvea SO\API\CortevaSO\CortevaSO.DataAccessLayer\bin\Debug\netstandard2.0\CortevaSO.DataAccessLayer.dll
+3>------ Rebuild All started: Project: CortevaSO.BusinessAccessLayer, Configuration: Debug Any CPU ------
+3>CortevaSO.BusinessAccessLayer -> D:\Cortvea SO\API\CortevaSO\CortevaSO.BusinessAccessLayer\bin\Debug\netstandard2.0\CortevaSO.BusinessAccessLayer.dll
+4>------ Rebuild All started: Project: CortevaSO, Configuration: Debug Any CPU ------
+5>------ Rebuild All started: Project: CortevaSO.UnitTest, Configuration: Debug Any CPU ------
+5>CortevaSO.UnitTest -> D:\Cortvea SO\API\CortevaSO\CortevaSO.UnitTest\bin\Debug\netcoreapp3.1\CortevaSO.UnitTest.dll
+4>CortevaSO -> D:\Cortvea SO\API\CortevaSO\CortevaSO\bin\Debug\netcoreapp3.1\CortevaSO.dll
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
